@@ -1,0 +1,14 @@
+{
+  "name": "async-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "api.async-await.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Roman Tuomisto",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "1.1.3"
+  }
+}
